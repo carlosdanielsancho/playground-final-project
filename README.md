@@ -23,7 +23,7 @@ ls
 ```bash
 git clone https://github.com/carlosdanielsancho/our-blog.git
 
-cd django-coderhouse-project
+cd playground-final-project
 
 git checkout rama develop
 ```
