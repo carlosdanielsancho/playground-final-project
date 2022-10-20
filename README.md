@@ -23,7 +23,7 @@ git clone git@github.com:carlosdanielsancho/playground-final-project.git
 
 cd playground-final-project
 
-git checkout rama develop
+git checkout develop
 ```
 
 - Abrimos VSCode y una terminal allí
