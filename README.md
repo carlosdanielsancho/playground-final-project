@@ -1,9 +1,7 @@
 # playground-final-project
-Web app estilo blog programada en python con el framework django como proyecto final para el final del  curso python de Coder House 2022
-# our-blog
-app web estilo blog programada en python con el framework django como proyecto final del curso python de Coder House
 
-https://github.com/carlosdanielsancho/our-blog.git
+app web estilo blog programada en python con el framework django como proyecto final del curso python de Coder House
+git@github.com:carlosdanielsancho/playground-final-project.git
 
 # Instrucciones para ejecutar este proyecto
 
@@ -21,7 +19,7 @@ ls
 
 - Clonar el proyecto y cambiar de rama
 ```bash
-git clone https://github.com/carlosdanielsancho/our-blog.git
+git clone git@github.com:carlosdanielsancho/playground-final-project.git
 
 cd playground-final-project
 
